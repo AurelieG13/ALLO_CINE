@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.logo {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+
+.button {
+    background-color: rgb(141, 184, 226);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid rgb(133, 139, 235);
+    padding: 5px 15px;
+    text-decoration: none;
+    box-shadow: 2px 5px 5px lightgray;
+}
+
+.button:hover{
+    background-color: dodgerblue;
+    color: white;
+}
+
+
